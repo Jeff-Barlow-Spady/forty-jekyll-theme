@@ -1,10 +1,10 @@
 # site settings
-title: Forty
+title: Test page
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: jeff.barlow.spady@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://github.com/Jeff-Barlow-Spady/https-jeff-barlow-spady.github.io/tree/main
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
@@ -15,21 +15,7 @@ phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
-
-# social settings (key must match name of font awesome icon)
-# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
-# Icons are not shown if value is empty
-# You need to restart jekyll for changes to have an effect
-socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+tiles-count: 4
 
 # build settings
 markdown: kramdown
