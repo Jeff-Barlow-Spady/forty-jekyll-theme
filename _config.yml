@@ -28,3 +28,6 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+- generic.md
+- elements.md
+- allposts.md
